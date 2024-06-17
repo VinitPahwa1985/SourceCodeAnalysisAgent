@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Source-code-analysis-ai-agent
+Version: 0.0.1
+Author: Vinit pahwa
+Author-email: pahwavinit1512@gmail.com
+License-File: LICENSE
+Requires-Dist: faiss-cpu
+Requires-Dist: groq
+Requires-Dist: langchain-groq
+Requires-Dist: PyPDF2
+Requires-Dist: langchain_google_genai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: langchain_community
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf
+Requires-Dist: google-cloud-aiplatform>=1.38
+Requires-Dist: GitPython
+Requires-Dist: chromadb
